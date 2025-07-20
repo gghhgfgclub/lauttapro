@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "nothing",
   "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "asynckit": "^0.4.0",
     "char-mod-mail": "^1.1.4",
@@ -23,10 +26,7 @@
     "ws": "^8.5.0",
     "zod": "^3.14.4"
   },
-  "scripts": {
-   "start": "node index.js"
-}
-
   "author": "",
   "license": "ISC"
 }
+
